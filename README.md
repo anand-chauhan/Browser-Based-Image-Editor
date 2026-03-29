@@ -12,15 +12,27 @@ use of Canvas API, DOM manipulation, and real-time image processing in the brows
 🚀 Features
 
 📤 Upload image from local system
+
 🎛️ Adjustable filters (brightness, contrast, saturation, etc.)
+
 🎨 Predefined presets (Drama, Vintage, Retro, Black & White, etc.)
+
 🔄 Reset filters to default
+
 💾 Download edited image
+
 ⚡ Real-time preview using Canvas API
+
 🧩 Dynamic UI generation for filters
 
+
 🛠️ Tech Stack
+
 HTML5
+
 CSS3
+
 JavaScript (Vanilla JS)
+
 Canvas API
+
